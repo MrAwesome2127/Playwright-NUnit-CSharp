@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "eqW7Un+Lwkf4w8PMgJnncY7MtuTB1aDDMyhC8wbAXAOUQDhIF3vOn7uPH7nE7dD2WRBOyNtSMBOoH5jfIChdxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coach\\GitHub\\Playwright-NUnit-CSharp\\PlayWrightCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coach\\.nuget\\packages\\coverlet.collector\\6.0.1\\coverlet.collector.6.0.1.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\microsoft.playwright\\1.41.2\\microsoft.playwright.1.41.2.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\microsoft.playwright.nunit\\1.41.2\\microsoft.playwright.nunit.1.41.2.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\microsoft.playwright.testadapter\\1.41.2\\microsoft.playwright.testadapter.1.41.2.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\nunit.analyzers\\4.0.1\\nunit.analyzers.4.0.1.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Coach\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
